@@ -1,0 +1,1 @@
+"%workengine%" "%workproject%" 127.0.0.1 -game -ResX=800 -WINDOWED -ResY=600 -log -nosteam

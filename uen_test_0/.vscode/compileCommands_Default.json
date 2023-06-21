@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\projects\\local\\servertest_0\\uen_test_0\\Source\\uen_test_0\\MyClass.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\projects\\local\\servertest_0\\uen_test_0\\.vscode\\compileCommands_Default\\uen_test_0.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\projects\\local\\servertest_0\\uen_test_0\\Source\\uen_test_0\\MyClass.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\projects\\local\\servertest_0\\uen_test_0\\.vscode\\compileCommands_Default\\uen_test_0.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\projects\\local\\servertest_0\\uen_test_0\\Source\\uen_test_0\\uen_test_0.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\projects\\local\\servertest_0\\uen_test_0\\.vscode\\compileCommands_Default\\uen_test_0.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\projects\\local\\servertest_0\\uen_test_0\\Source\\uen_test_0\\uen_test_0.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\projects\\local\\servertest_0\\uen_test_0\\.vscode\\compileCommands_Default\\uen_test_0.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\projects\\local\\servertest_0\\uen_test_0\\Source\\uen_test_0\\uen_test_0.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\projects\\local\\servertest_0\\uen_test_0\\.vscode\\compileCommands_Default\\uen_test_0.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	}
+]

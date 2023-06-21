@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "uen_test_0Editor Editor Win64 Development (uen_test_0)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "epic.ue",
+            "compileCommands": "C:\\projects\\local\\servertest_0\\uen_test_0\\.vscode\\compileCommands_uen_test_0.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "configurationProvider": "epic.ue",
+            "compileCommands": "C:\\projects\\local\\servertest_0\\uen_test_0\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
